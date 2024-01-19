@@ -1,0 +1,63 @@
+[33mcommit 8c90c8a32935bbbeaac7773e216be9924a794d84[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 8a44cf2 c35caf9
+Author: Demo <Demo@demo.in>
+Date:   Fri Jan 19 17:43:45 2024 +0530
+
+    Merge branch 'main' of https://github.com/Nihaarikaa/LocalRepo
+
+[33mcommit 8a44cf2c55d1f0e81722b33e27258cafa3cbd803[m
+Author: Demo <Demo@demo.in>
+Date:   Fri Jan 19 17:33:55 2024 +0530
+
+    Description of the changes
+
+[33mcommit c35caf923185eea01c3c3c6ddbc80e991bf42529[m
+Author: Niharika Singh <141413405+Nihaarikaa@users.noreply.github.com>
+Date:   Fri Jan 19 16:52:30 2024 +0530
+
+    Update README.md
+
+[33mcommit 940be39adc9cfe4d1a740ac47c9dfd7a8331c2f1[m
+Author: Demo <Demo@demo.in>
+Date:   Fri Jan 19 16:32:50 2024 +0530
+
+    Initial commit
+
+[33mcommit 5d95e0eb313bdb2ce74a48727b63caec7a064c4d[m
+Author: Demo <Demo@demo.in>
+Date:   Tue Jan 16 18:19:13 2024 +0530
+
+    Add Button
+
+[33mcommit b4bb312f096d297df8f0d28b088087f7a6b1ca74[m
+Merge: ba1be26 3dd4edd
+Author: Niharika Singh <141413405+Nihaarikaa@users.noreply.github.com>
+Date:   Tue Jan 16 18:15:54 2024 +0530
+
+    Merge pull request #1 from Nihaarikaa/feature1
+    
+    Add new feature
+
+[33mcommit 3dd4eddef9acd28d4d34688fa91cf3adaa911666[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Demo <Demo@demo.in>
+Date:   Tue Jan 16 18:07:35 2024 +0530
+
+    Add new feature
+
+[33mcommit ba1be261929967c583a905faf1632942de64db34[m
+Author: Demo <Demo@demo.in>
+Date:   Tue Jan 16 18:00:17 2024 +0530
+
+    fixed Readme
+
+[33mcommit 6b89694616ae6eb3e6844108b6cf7735650db0ee[m
+Author: Demo <Demo@demo.in>
+Date:   Tue Jan 16 17:58:08 2024 +0530
+
+    Add Readme
+
+[33mcommit 821de197cae144197ba6d55a7b1c763bb0828086[m
+Author: Demo <Demo@demo.in>
+Date:   Mon Jan 15 17:23:27 2024 +0530
+
+    Add Initial Files
